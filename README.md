@@ -5,16 +5,16 @@ Like Cat and Coding
 {
     "name": "Nguyễn Huy Hoàng",
     "skills": {
-      "lang": ["Typescript", "Javascript", "C#", "PHP"],
+      "lang": ["Typescript", "Javascript", "C#"],
       "frontend": {
-        "main": ["ReactJS", "NextJS", "GatsbyJS"],
-        "css": ["Tailwindcss", "Ant Design", "MaterialUI", "Styled Component", "Bootstrap"],
-        "stateManagementAndDataFetching": ["ReactQuery", "Apollo Client", "Redux", "Zustand", "Axios", "SWR"],
+        "main": ["ReactJS", "NextJS"],
+        "css": ["Tailwindcss", "Ant Design", "MaterialUI", "Styled Component"],
+        "stateManagementAndDataFetching": ["ReactQuery", "Apollo Client", "Redux", "Zustand", "Axios"],
         "formLib": ["Formik", "React Hook Form"]
       },
       "backend": {
         "main": ["NestJS"],
-        "sub": ["ExpressJS", "StrapiJS", "ASP.NET", "Laravel"],
+        "sub": ["ExpressJS", "StrapiJS", "ASP.NET"],
         "database": ["MySQL", "MongoDB", "Oracle"]
       },
       "devops": ["Docker", "Nginx", "CI/CD with Github Actions", "Linux skill"],
