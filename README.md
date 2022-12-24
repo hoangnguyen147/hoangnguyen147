@@ -9,7 +9,7 @@ Like Cat and Coding
       "frontend": {
         "main": ["ReactJS", "NextJS"],
         "css": ["Tailwindcss", "Ant Design", "MaterialUI", "Styled Component"],
-        "stateManagementAndDataFetching": ["ReactQuery", "Hasura", "Apollo Client", "Redux", "Zustand", "Axios"],
+        "stateManagementAndDataFetching": ["ReactQuery", "Apollo Client", "Redux", "Zustand", "Axios"],
         "formLib": ["Formik", "React Hook Form"]
       },
       "backend": {
